@@ -5,8 +5,8 @@
         "@types/node": "20.10.4"
     },
     "dependencies": {
-        "@pulumi/aws": "6.13.2",
+        "@pulumi/aws": "6.14.0",
         "@pulumi/awsx": "2.3.0",
-        "@pulumi/pulumi": "3.96.2"
+        "@pulumi/pulumi": "3.97.0"
     }
 }
