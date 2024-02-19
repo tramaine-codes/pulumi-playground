@@ -2,11 +2,11 @@
     "name": "pulumi-playground",
     "main": "index.ts",
     "devDependencies": {
-        "@types/node": "20.11.17"
+        "@types/node": "20.11.19"
     },
     "dependencies": {
-        "@pulumi/aws": "6.21.0",
+        "@pulumi/aws": "6.22.2",
         "@pulumi/awsx": "2.5.0",
-        "@pulumi/pulumi": "3.105.0"
+        "@pulumi/pulumi": "3.106.0"
     }
 }
