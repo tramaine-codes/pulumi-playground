@@ -2,11 +2,11 @@
   "dependencies": {
     "@pulumi/aws": "7.16.0",
     "@pulumi/awsx": "3.1.0",
-    "@pulumi/pulumi": "3.215.0"
+    "@pulumi/pulumi": "3.218.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.3.11",
-    "@types/node": "24.10.7"
+    "@biomejs/biome": "2.3.13",
+    "@types/node": "24.10.9"
   },
   "name": "pulumi-playground",
   "main": "index.ts"
